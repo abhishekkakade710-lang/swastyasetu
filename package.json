@@ -1,0 +1,22 @@
+{
+  "name": "swasthyasetu-rural-healthcare",
+  "version": "1.0.0",
+  "description": "Rural Public Healthcare Access Platform built with React 18 component framework",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "keywords": [
+    "healthcare",
+    "rural-health",
+    "react",
+    "teleconsultation",
+    "ayushman-bharat",
+    "public-health"
+  ],
+  "author": "Antigravity AI Pair Programmer",
+  "license": "MIT"
+}
