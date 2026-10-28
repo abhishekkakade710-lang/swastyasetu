@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "Rural Public Healthcare Access Platform built with React 18 component framework",
   "scripts": {
-    "start": "npx serve ."
+    "start": "npx serve .",
+    "build": "node build.js"
   },
   "dependencies": {
     "react": "^18.2.0",
